@@ -1,0 +1,4 @@
+# HTTP Server.
+server:
+  address: ":8199"
+  serverRoot: "resource/public"
